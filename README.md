@@ -1,0 +1,1 @@
+Experimentation with different crc implementations becase crc is weird because it can use many different polynomials and vary in shifting direction.
